@@ -1,6 +1,6 @@
 # Bactrian
 
-**A small, Camel-inspired routing and orchestration engine for Python.**
+**Bactrian — A lightweight dependency-driven orchestration engine for composing semantic processors into executable flows.**
 
 Bactrian lets you describe a data-processing topology declaratively, as routes that read from named channels, run a processor, and write to another channel, and then executes that topology as a dependency-ordered batch. Processors stay small and ignorant of the graph. The engine owns ordering, readiness, queue lifecycles, error containment and diagnostics.
 

@@ -1,3 +1,3 @@
-# SPDX-FileCopyrightText: 2026-present U.N. Owen <void@some.where>
+# SPDX-FileCopyrightText: 2026-present Sami Piristine <sprstn@gmail.com>
 #
-# SPDX-License-Identifier: MIT
+# SPDX-License-Identifier: CC-1.0 Universal
